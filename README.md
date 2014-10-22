@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CakePHP
 
 [![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=master)](http://travis-ci.org/cakephp/cakephp)
@@ -52,3 +53,7 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 ocamain
 =======
 >>>>>>> 368df1a4bc57b0405b7202fbfb1d48b3fd6d3d59
+=======
+ocamain
+=======
+>>>>>>> d625bd815fee1f9002f10852a8202f7e823ea311
